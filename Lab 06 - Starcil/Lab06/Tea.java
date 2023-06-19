@@ -1,3 +1,5 @@
+package Lab06;
+
 public class Tea extends Beverage {
     private boolean hasMilk;
 
