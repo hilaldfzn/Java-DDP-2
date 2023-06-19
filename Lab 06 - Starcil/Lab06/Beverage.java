@@ -1,3 +1,5 @@
+package Lab06;
+
 public class Beverage {
     protected String name;
     protected String size;
