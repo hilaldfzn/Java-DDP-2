@@ -1,3 +1,5 @@
+package Lab06;
+
 public class Coffee extends Beverage {
     private boolean hasWhipCream = false;
 
